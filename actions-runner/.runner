@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "RIZWAN",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus15.actions.githubusercontent.com/ljkpt8NsKufpN9jMppNmUTCy8nPp88hXJSyonvQBgVqofiLV2k/",
+  "gitHubUrl": "https://github.com/Ruh-Al-Tarikh/github-mcp-server",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}

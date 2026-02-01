@@ -1,4 +1,8 @@
-# 🚀 QuickStart
+#
+
+<<<<<<< HEAD
+
+🚀 QuickStart
 
 QuickStart is a Python starter repository for quickly getting started with Prefect workflows and Prefect Cloud.
 
@@ -118,4 +122,9 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 🌟 Acknowledgement
 
-Built as a minimal, developer-friendly starter for learning and experimenting with Prefect automation workflows.
+# Built as a minimal, developer-friendly starter for learning and experimenting with Prefect automation workflows
+
+=======
+
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Ruh-Al-Tarikh/pyray/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Ruh-Al-Tarikh/pyray/tree/master)
+>>>>>>> 269e2ceec142f421a1b5e705bc06ae73d159e53c
